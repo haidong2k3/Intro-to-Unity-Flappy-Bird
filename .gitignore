@@ -70,3 +70,21 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Unity (rất quan trọng)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
